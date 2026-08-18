@@ -107,7 +107,7 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-![UNNAMED](/home/jayashree_13728/os/ex3/Linux-IPC-Pipes/exp3_1.png)
+![UNNAMED](exp3img/exp3_1.png)
 
 # PROGRAM:
 
@@ -205,7 +205,7 @@ void client() {
 
 ## OUTPUT
 
-![NAMED](/home/jayashree_13728/os/ex3/Linux-IPC-Pipes/exp3new.png)
+![NAMED](exp3img/exp3new.png)
 
 # RESULT:
 The program is executed successfully.
